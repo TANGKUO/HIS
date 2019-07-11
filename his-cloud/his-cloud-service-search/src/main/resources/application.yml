@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: dev #默认为开发环境
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/mall?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+
+  data:
+    elasticsearch:
+      repositories:
+        enabled: true
+      cluster-nodes: 127.0.0.1:9300
+
+server:
+  port: 10012
+
+
