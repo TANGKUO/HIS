@@ -1,4 +1,5 @@
-# HIS
+HIS
+
 HIS英文全称 hospital information system（医院信息系统），系统主要功能按照数据流量、流向及处理过程分为临床诊疗、药品管理、财务管理、患者管理。诊疗活动由各工作站配合完成，并将临床信息进行整理、处理、汇总、统计、分析等。本系统包括以下工作站：门诊医生工作站、药房医生工作站、医技医生工作站、收费员工作站、对帐员工作站、管理员工作站。基于Spring cloud和Spring boot 2.x 实现。
 
 
@@ -84,33 +85,23 @@ HIS 项目致力于打造一个完整的医疗系统，采用现阶段流行技�
 
 - PC-主页
   ![项目开发进度图](document/picture/PC-主页.png)
-
 - APP-主页
-  ![项目开发进度图](document/picture/APP-主页.png)
+
+![项目开发进度图](document/picture/APP-主页.png)
+
+- APP-挂号
+
+![项目开发进度图](document/picture/APP-挂号-1.png)
+
 
 - PC-门诊医生工作台
   ![项目开发进度图](document/picture/PC-门诊医生工作台-1.png)
-
-- PC-门诊医生工作台
-  ![项目开发进度图](document/picture/PC-门诊医生工作台-2.png)
 
 - PC-药房医生工作台
   ![项目开发进度图](document/picture/PC-药房医生工作台-1.png)
 
 - PC-日结
   ![项目开发进度图](document/picture/PC-日结-1.png)
-
-- PC-角色权限管理
-  ![项目开发进度图](document/picture/PC-角色权限管理.png)
-
-- APP-挂号
-  <img style="width:300px" src="document/picture/APP-挂号-1.png" align=center />
-
-- APP-挂号
-  <img style="width:300px" src="document/picture/APP-挂号-2.png" align=center />
-
-- APP-检查检验结果
-  <img style="width:300px" src="document/picture/APP-检查检验结果.png" align=center />
 
 - Spring boot admin
   ![项目开发进度图](document/picture/Spring boot admin-1.png)
