@@ -12,7 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/his-cloud-service-bms/his-cloud-service-bms.iml" filepath="$PROJECT_DIR$/his-cloud-service-bms/his-cloud-service-bms.iml" />
       <module fileurl="file://$PROJECT_DIR$/his-cloud-service-dms/his-cloud-service-dms.iml" filepath="$PROJECT_DIR$/his-cloud-service-dms/his-cloud-service-dms.iml" />
       <module fileurl="file://$PROJECT_DIR$/his-cloud-service-pms/his-cloud-service-pms.iml" filepath="$PROJECT_DIR$/his-cloud-service-pms/his-cloud-service-pms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/his-cloud-service-search/his-cloud-service-search.iml" filepath="$PROJECT_DIR$/his-cloud-service-search/his-cloud-service-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/his-cloud-service-sms/his-cloud-service-sms.iml" filepath="$PROJECT_DIR$/his-cloud-service-sms/his-cloud-service-sms.iml" />
       <module fileurl="file://$PROJECT_DIR$/his-cloud-zipkin/his-cloud-zipkin.iml" filepath="$PROJECT_DIR$/his-cloud-zipkin/his-cloud-zipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/his-cloud-zuul/his-cloud-zuul.iml" filepath="$PROJECT_DIR$/his-cloud-zuul/his-cloud-zuul.iml" />

@@ -14,7 +14,6 @@
         <module name="his-cloud-service-bms" />
         <module name="his-cloud-service-dms" />
         <module name="his-cloud-service-pms" />
-        <module name="his-cloud-service-search" />
         <module name="his-cloud-service-sms" />
         <module name="his-cloud-zipkin" />
         <module name="his-cloud-zuul" />
