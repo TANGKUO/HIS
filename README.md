@@ -86,7 +86,7 @@ HIS 项目致力于打造一个完整的医疗系统，采用现阶段流行技�
   ![项目开发进度图](document/picture/PC-主页.png)
 
 - APP-主页
-  <img style="width:300px" src="document/picture/APP-主页.png" align=center />
+  ![项目开发进度图](document/picture/APP-主页.png)
 
 - PC-门诊医生工作台
   ![项目开发进度图](document/picture/PC-门诊医生工作台-1.png)
