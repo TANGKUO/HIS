@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="603f0005-23a7-4a32-aade-bc9735dcb0d3" name="Default Changelist" comment="" />
+    <list default="true" id="603f0005-23a7-4a32-aade-bc9735dcb0d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../HIS-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HIS-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/config/Swagger2Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/his-cloud-service-bms/src/main/java/com/neu/his/cloud/service/bms/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/his-cloud-service-bms/src/main/java/com/neu/his/cloud/service/bms/config/Swagger2Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/his-cloud-service-dms/src/main/java/com/neu/his/cloud/service/dms/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/his-cloud-service-dms/src/main/java/com/neu/his/cloud/service/dms/config/Swagger2Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/his-cloud-service-pms/src/main/java/com/neu/his/cloud/service/pms/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/his-cloud-service-pms/src/main/java/com/neu/his/cloud/service/pms/config/Swagger2Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/his-cloud-service-sms/src/main/java/com/neu/his/cloud/service/sms/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/his-cloud-service-sms/src/main/java/com/neu/his/cloud/service/sms/config/Swagger2Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/his-cloud-zuul/src/main/java/com/neu/his/cloud/zuul/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/his-cloud-zuul/src/main/java/com/neu/his/cloud/zuul/config/Swagger2Config.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/his-cloud-dependencies/target/" />
     <ignored path="$PROJECT_DIR$/his-cloud-eureka/target/" />
     <ignored path="$PROJECT_DIR$/his-cloud-service-sms/target/" />
@@ -48,46 +58,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/his-cloud-service-bms/src/main/java/com/neu/his/cloud/service/bms/controller/BmsFeeController.java">
+        <entry file="file://$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/config/Swagger2Config.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="266">
+              <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/his-cloud-service-bms/src/main/java/com/neu/his/cloud/service/bms/model/DmsHerbalItemRecord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/his-cloud-monitor/src/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/his-cloud-eureka/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/his-cloud-api-app/src/main/java/com/neu/his/cloud/api/app/config/Swagger2Config.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/his-cloud-eureka/src/main/java/com/neu/his/cloud/eureka/EurekaApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-              <folding>
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="266">
+              <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -111,18 +94,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spring-cloud-config" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/his-cloud-zuul/src/main/java/com/neu/his/cloud/zuul/config/SecurityConfig.java" />
-        <option value="$PROJECT_DIR$/his-cloud-service-dms/src/main/java/com/neu/his/cloud/service/dms/service/impl/DmsCaseModelServiceImpl.java" />
-        <option value="$PROJECT_DIR$/his-cloud-service-dms/src/main/java/com/neu/his/cloud/service/dms/dto/dms/DmsCaseModelCatalogNode.java" />
-        <option value="$PROJECT_DIR$/his-cloud-api-app/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/his-cloud-zuul/src/main/java/com/neu/his/cloud/zuul/distribution/api/pc/dms/ApiPcDmsDiseDistributionService.java" />
-        <option value="$PROJECT_DIR$/his-cloud-zuul/src/main/java/com/neu/his/cloud/zuul/controller/dms/DmsMechanicItemRecordDistributionController.java" />
-        <option value="$PROJECT_DIR$/his-cloud-zuul/src/main/java/com/neu/his/cloud/zuul/controller/sms/SmsWorkloadDistributionController.java" />
         <option value="$PROJECT_DIR$/his-cloud-zuul/src/main/java/com/neu/his/cloud/zuul/distribution/api/pc/sms/ApiPcSmsWorkloadDistributionService.java" />
         <option value="$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/controller/sms/SmsWorkloadController.java" />
         <option value="$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/service/sms/SmsWorkloadService.java" />
@@ -167,6 +143,13 @@
         <option value="$PROJECT_DIR$/his-cloud-zuul/src/main/java/com/neu/his/cloud/zuul/dto/dms/DmsMedicineItemRecordResult.java" />
         <option value="$PROJECT_DIR$/his-cloud-service-bms/src/main/java/com/neu/his/cloud/service/bms/service/impl/BmsFeeServiceImpl.java" />
         <option value="$PROJECT_DIR$/his-cloud-eureka/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/his-cloud-zuul/src/main/java/com/neu/his/cloud/zuul/config/Swagger2Config.java" />
+        <option value="$PROJECT_DIR$/his-cloud-service-sms/src/main/java/com/neu/his/cloud/service/sms/config/Swagger2Config.java" />
+        <option value="$PROJECT_DIR$/his-cloud-service-pms/src/main/java/com/neu/his/cloud/service/pms/config/Swagger2Config.java" />
+        <option value="$PROJECT_DIR$/his-cloud-service-dms/src/main/java/com/neu/his/cloud/service/dms/config/Swagger2Config.java" />
+        <option value="$PROJECT_DIR$/his-cloud-service-bms/src/main/java/com/neu/his/cloud/service/bms/config/Swagger2Config.java" />
+        <option value="$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/config/Swagger2Config.java" />
+        <option value="$PROJECT_DIR$/his-cloud-api-app/src/main/java/com/neu/his/cloud/api/app/config/Swagger2Config.java" />
       </list>
     </option>
   </component>
@@ -198,9 +181,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="-7" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -212,8 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,50 +205,54 @@
             <path>
               <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="his-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="his-cloud-api-app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="his-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="his-cloud-api-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="his-cloud-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="his-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="his-cloud-api-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="his-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="his-cloud-api-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="his-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="his-cloud-api-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="his-cloud-api-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,11 +263,11 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562386472851" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562949382203" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML&#10;XHTML" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="F:/实训/his-cloud" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -293,6 +278,9 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.neu.his.cloud.api.app.service" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.neu.his.cloud.zuul.service.impl" />
       <recent name="com.neu.his.cloud.service.sms.service" />
@@ -303,13 +291,6 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.neu.his.cloud.service.sms" />
       <recent name="com.neu.his.cloud.service.sms.mapper" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\lenovo-aa\Desktop\实训\项目\real\cloud\his-cloud\his-cloud-service-search\src" />
-      <recent name="C:\Users\lenovo-aa\Desktop\实训\项目\real\cloud\his-cloud\his-cloud-service-search" />
-      <recent name="C:\Users\lenovo-aa\Desktop\实训\项目\real\cloud\his-cloud\his-cloud-service-search\src\main\java\com\neu\his\cloud\service\search\service\model" />
-      <recent name="C:\Users\lenovo-aa\Desktop\实训\项目\real\cloud\his-cloud\his-cloud-service-sms\src\main\resources\com\neu\his\cloud\service\sms\mapper" />
-      <recent name="C:\Users\lenovo-aa\Desktop\实训\项目\real\cloud\his-cloud\his-cloud-zuul\src\main\resources\com\neu\his\cloud\zuul\mapper" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lenovo-aa\Desktop\实训\项目\real\cloud\his-cloud\his-cloud-zuul\src\main\java\com\neu\his\cloud\zuul\dto\dms" />
@@ -325,8 +306,12 @@
       <recent name="com.neu.his.cloud.service.dms.dto.dms" />
       <recent name="com.neu.his.cloud.zuul.controller.dms" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.neu.his.cloud.api.app.service" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo-aa\Desktop\实训\项目\real\cloud\his-cloud\his-cloud-service-search\src" />
+      <recent name="C:\Users\lenovo-aa\Desktop\实训\项目\real\cloud\his-cloud\his-cloud-service-search" />
+      <recent name="C:\Users\lenovo-aa\Desktop\实训\项目\real\cloud\his-cloud\his-cloud-service-search\src\main\java\com\neu\his\cloud\service\search\service\model" />
+      <recent name="C:\Users\lenovo-aa\Desktop\实训\项目\real\cloud\his-cloud\his-cloud-service-sms\src\main\resources\com\neu\his\cloud\service\sms\mapper" />
+      <recent name="C:\Users\lenovo-aa\Desktop\实训\项目\real\cloud\his-cloud\his-cloud-zuul\src\main\resources\com\neu\his\cloud\zuul\mapper" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -464,6 +449,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ServiceSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="his-cloud-service-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neu.his.cloud.service.search.ServiceSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ServiceSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
       <module name="his-cloud-service-sms" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.neu.his.cloud.service.sms.ServiceSmsApplication" />
@@ -503,6 +495,7 @@
       <item itemvalue="Spring Boot.ServicePmsApplication" />
       <item itemvalue="Spring Boot.ApiPcApplication" />
       <item itemvalue="Spring Boot.ApiAppApplication" />
+      <item itemvalue="Spring Boot.ServiceSearchApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -575,6 +568,7 @@
       <workItem from="1562373913741" duration="481000" />
       <workItem from="1562374665046" duration="1708000" />
       <workItem from="1562858415376" duration="647000" />
+      <workItem from="1562949204672" duration="175000" />
     </task>
     <task id="LOCAL-00001" summary="init repo">
       <created>1560604155728</created>
@@ -738,7 +732,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="400702000" />
+    <option name="totallyTimeSpent" value="400877000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -751,8 +745,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.2646421" visible="true" weight="0.36662197" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.2646421" visible="true" weight="0.18364611" />
       <window_info id="Structure" order="1" sideWeight="0.34893617" side_tool="true" weight="0.4495159" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.81884056" side_tool="true" weight="0.21179625" />
@@ -778,7 +773,7 @@
       <window_info anchor="bottom" id="JRebel Executor" order="14" />
       <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.111930296" side_tool="true" weight="0.6954674" />
       <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.308311" weight="0.2407932" />
-      <window_info anchor="bottom" id="Run Dashboard" order="17" sideWeight="0.88739944" visible="true" weight="0.39660057" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" sideWeight="0.88739944" visible="true" weight="0.19263457" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24896266" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -885,73 +880,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/config/SystemConfig.java" />
-    <entry file="file://$PROJECT_DIR$/his-cloud-zuul/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1617">
-          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/his-cloud-service-bms/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/his-cloud-service-sms/src/main/resources/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/his-cloud-service-sms/src/main/java/com/neu/his/cloud/service/sms/ServiceSmsApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/ApiPcApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/his-cloud-api-pc/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/his-cloud-service-dms/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-304">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/his-cloud-service-pms/src/main/java/com/neu/his/cloud/service/pms/ServicePmsApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/his-cloud-service-sms/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/his-cloud-service-pms/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/his-cloud-zuul/src/main/java/com/neu/his/cloud/zuul/distribution/api/pc/sms/ApiPcSmsEchartsDistributionService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -1204,13 +1132,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/his-cloud-service-bms/src/main/java/com/neu/his/cloud/service/bms/controller/BmsFeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/his-cloud-service-bms/src/main/java/com/neu/his/cloud/service/bms/model/DmsHerbalItemRecord.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1236,6 +1157,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/his-cloud-service-bms/src/main/java/com/neu/his/cloud/service/bms/controller/BmsFeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/his-cloud-zuul/src/main/resources/generator.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/his-cloud-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/his-cloud-zuul/src/main/java/com/neu/his/cloud/zuul/config/Swagger2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/his-cloud-service-sms/src/main/java/com/neu/his/cloud/service/sms/config/Swagger2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/his-cloud-service-pms/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/his-cloud-service-pms/src/main/java/com/neu/his/cloud/service/pms/config/Swagger2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/his-cloud-service-dms/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1041">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/his-cloud-service-dms/src/main/java/com/neu/his/cloud/service/dms/config/Swagger2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/his-cloud-service-bms/src/main/java/com/neu/his/cloud/service/bms/config/Swagger2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/config/Swagger2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/his-cloud-api-app/src/main/java/com/neu/his/cloud/api/app/config/Swagger2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -1291,7 +1292,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>his-cloud-service-dms</last-edited>
+          <last-edited>his-cloud-api-pc</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
