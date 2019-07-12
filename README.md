@@ -5,11 +5,24 @@ HIS英文全称 hospital information system（医院信息系统），系统主�
 
 **持续更新中......**
 
+``作者近期准备考研，更新速度敬请理解``
+
 ## 前言
 
 HIS 项目致力于打造一个完整的医疗系统，采用现阶段流行技术实现。
 
-### 项目架构
+本仓库包含
+
+| 系统 | 描述         |
+| ---------- | ---------------- |
+| HIS-master | 单体应用         |
+| his-cloud  | 分布式微服务应用 |
+| HIS-web    | 诊疗前端           |
+| HIS-app    | 患者前端 |
+
+``注：单体应用和分布式实现业务完全相同``
+
+## 一. 项目架构
 
 ![项目开发进度图](document/picture/架构图.png)
 
@@ -67,7 +80,91 @@ HIS 项目致力于打造一个完整的医疗系统，采用现阶段流行技�
 | Xlsx       | 0.14.1      | Excel表导出组件     |
 | Webpack    | ————        | 模板打包器          |
 
+## 二. 项目展示
+
+- PC-主页
+  ![项目开发进度图](document/picture/PC-主页.png)
+
+- APP-主页
+  <img style="width:300px" src="document/picture/APP-主页.png" align=center />
+
+- PC-门诊医生工作台
+  ![项目开发进度图](document/picture/PC-门诊医生工作台-1.png)
+
+- PC-门诊医生工作台
+  ![项目开发进度图](document/picture/PC-门诊医生工作台-2.png)
+
+- PC-药房医生工作台
+  ![项目开发进度图](document/picture/PC-药房医生工作台-1.png)
+
+- PC-日结
+  ![项目开发进度图](document/picture/PC-日结-1.png)
+
+- PC-角色权限管理
+  ![项目开发进度图](document/picture/PC-角色权限管理.png)
+
+- APP-挂号
+  <img style="width:300px" src="document/picture/APP-挂号-1.png" align=center />
+
+- APP-挂号
+  <img style="width:300px" src="document/picture/APP-挂号-2.png" align=center />
+
+- APP-检查检验结果
+  <img style="width:300px" src="document/picture/APP-检查检验结果.png" align=center />
+
+- Spring boot admin
+  ![项目开发进度图](document/picture/Spring boot admin-1.png)
+
+- Spring boot admin
+  ![项目开发进度图](document/picture/Spring boot admin-2.png)
+
+- ZinKin链路追踪
+  ![项目开发进度图](document/picture/ZinKin链路追踪.png)
+
+- 分布式日志收集
+  ![项目开发进度图](document/picture/分布式日志收集.png)
+
+- Hystrix dashboard
+  ![项目开发进度图](document/picture/Hystrix dashboard.png)
+
+## 三. 环境搭建
+
+### 开发工具
+
+| 工具                     | 版本          | 说明                     |
+| ------------------------ | ------------- | ------------------------ |
+| IDEA                     | 2019.1.1      | 后端开发IDE              |
+| WebStorm                 | 2019.1.1      | 前端开发IDE              |
+| Visual   Studio Code     | 1.35.1        | 前端开发IDE              |
+| HbuilderX                | V2.0.1        | 前端开发IDE              |
+| Git                      | 2.21.0        | 代码托管平台             |
+| Google   Chrome          | 75.0.3770.100 | 浏览器、前端调试工具     |
+| VMware   Workstation Pro | 14.1.3        | 虚拟机                   |
+| PowerDesigner            | 15            | 数据库设计工具           |
+| Navicat                  | 11.1.13       | 数据库连接工具           |
+| SQLyog                   | 12.0.3        | 数据库连接工具           |
+| Visio                    | 2013          | 时序图、流程图等绘制工具 |
+| ProcessOn                | ——            | 架构图等绘制工具         |
+| XMind   ZEN              | 9.2.0         | 思维导图绘制工具         |
+| RedisDesktop             | 0.9.3.817     | redis客户端连接工具      |
+| Postman                  | 7.1.0         | 接口测试工具             |
+
+### 部署教程
+
+``待更新``
+
+## 三. 业务需求
+
 ### 业务流程图
 
 ![项目开发进度图](document/picture/业务流程图.png)
 
+## 需求
+
+![项目开发进度图](document/picture/需求思维图.png)
+
+## 许可证
+
+[Apache License 2.0](https://github.com/macrozheng/mall/blob/master/LICENSE)
+
+Copyright (c) 2018-2019 ZainZhao

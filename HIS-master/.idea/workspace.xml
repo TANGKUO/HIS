@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d6300d3-e464-4e8a-9b0b-5742c7f1993d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/config/Swagger2Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -98,7 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/api/controller/sms/SmsWorkloadController.java" />
         <option value="$PROJECT_DIR$/HIS-service/HIS-dms-service/src/main/java/com/neu/his/dms/service/impl/DmsFeeRabbitMQServiceImpl.java" />
         <option value="$PROJECT_DIR$/HIS-service/HIS-dms-service/src/main/java/com/neu/his/dms/service/impl/DmsDiseServiceImpl.java" />
         <option value="$PROJECT_DIR$/HIS-common/src/main/java/com/neu/his/common/dto/sms/SmsFrequentUsedResult.java" />
@@ -149,6 +149,7 @@
         <option value="$PROJECT_DIR$/HIS-service/HIS-pms-service/src/main/java/com/neu/his/pms/service/impl/PmsPatientServiceImpl.java" />
         <option value="$PROJECT_DIR$/HIS-service/HIS-bms-service/src/main/java/com/neu/his/bms/service/impl/BmsFeeServiceImpl.java" />
         <option value="$PROJECT_DIR$/HIS-api/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/config/Swagger2Config.java" />
       </list>
     </option>
   </component>
@@ -240,49 +241,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="his" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HIS-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HIS-master" type="462c0819:PsiDirectoryNode" />
-              <item name="HIS-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="his" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HIS-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HIS-master" type="462c0819:PsiDirectoryNode" />
-              <item name="HIS-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="his" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HIS-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HIS-master" type="462c0819:PsiDirectoryNode" />
-              <item name="HIS-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="his" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-              <item name="sms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HIS-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HIS-master" type="462c0819:PsiDirectoryNode" />
-              <item name="HIS-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -600,7 +559,7 @@
       <workItem from="1562242179816" duration="796000" />
       <workItem from="1562291345801" duration="3435000" />
       <workItem from="1562304202681" duration="691000" />
-      <workItem from="1562944608195" duration="29000" />
+      <workItem from="1562944608195" duration="1276000" />
     </task>
     <servers />
   </component>
@@ -637,7 +596,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="624568000" />
+    <option name="totallyTimeSpent" value="625815000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -649,9 +608,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="0" width="782" height="831" extended-state="0" />
+    <frame x="761" y="0" width="782" height="831" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.1961326" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.4378453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -743,13 +702,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HIS-service/HIS-sms-service/src/main/java/com/neu/his/sms/SmsSkdService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HIS-service/HIS-sms-service/src/main/java/com/neu/his/sms/impl/SmsSkdServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -933,13 +885,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/config/SecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="129" column="56" selection-start-line="129" selection-start-column="56" selection-end-line="129" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HIS-mbg/src/main/java/com/neu/his/mbg/Generator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1089,6 +1034,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1672">
           <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/config/Swagger2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="129" column="56" selection-start-line="129" selection-start-column="56" selection-end-line="129" selection-end-column="56" />
         </state>
       </provider>
     </entry>
