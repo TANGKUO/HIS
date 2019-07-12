@@ -97,9 +97,11 @@ HIS 项目致力于打造一个完整的医疗系统，采用现阶段流行技�
 ![PC-主页](document/picture/PC-主页.png)
 
 - APP-主页
+
 ![APP-主页](document/picture/APP-主页.png)
 
 - APP-挂号
+
 ![APP-挂号](document/picture/APP-挂号-1.png)
 
 
