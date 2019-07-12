@@ -9,7 +9,7 @@ spring:
           uri: https://github.com/ZainZhao/spring-cloud-config
           search-paths: respo
           username: ZainZhao
-          password: zhaoYU19980224
+          password: 
           force-pull: true
 #  rabbitmq:
 #    host: localhost
