@@ -106,28 +106,25 @@ HIS 项目致力于打造一个完整的医疗系统，采用现阶段流行技�
 
 
 - PC-门诊医生工作台
-![C-门诊医生工作台](document/picture/PC-门诊医生工作台-1.png)
-
+  ![C-门诊医生工作台](document/picture/PC-门诊医生工作台-1.png)
 - PC-药房医生工作台
-![PC-药房医生工作台](document/picture/PC-药房医生工作台-1.png)
-
+  ![PC-药房医生工作台](document/picture/PC-药房医生工作台-1.png)
 - PC-日结
-![PC-日结](document/picture/PC-日结-1.png)
-
+  ![PC-日结](document/picture/PC-日结-1.png)
 - Spring boot admin
-![Spring boot admin](document/picture/Spring boot admin-1.png)
-
+  ![Spring boot admin](document/picture/Spring boot admin-1.png)
 - Spring boot admin
-![Spring boot admin](document/picture/Spring boot admin-2.png)
-
+  ![Spring boot admin](document/picture/Spring boot admin-2.png)
 - ZinKin链路追踪
-![ZinKin链路追踪](document/picture/ZinKin链路追踪.png)
-
+  ![ZinKin链路追踪](document/picture/ZinKin链路追踪.png)
 - 分布式日志收集
-![分布式日志收集](document/picture/分布式日志收集.png)
-
+  ![分布式日志收集](document/picture/分布式日志收集.png)
 - Hystrix dashboard
-![Hystrix dashboard](document/picture/Hystrix dashboard.png)
+  ![Hystrix dashboard](document/picture/Hystrix-dashboard.png)
+
+
+
+
 
 ## 三. 环境搭建
 
