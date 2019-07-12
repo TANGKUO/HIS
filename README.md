@@ -84,39 +84,38 @@ HIS 项目致力于打造一个完整的医疗系统，采用现阶段流行技�
 ## 二. 项目展示
 
 - PC-主页
-  ![项目开发进度图](document/picture/PC-主页.png)
-- APP-主页
+![PC-主页](document/picture/PC-主页.png)
 
-![项目开发进度图](document/picture/APP-主页.png)
+- APP-主页
+![APP-主页](document/picture/APP-主页.png)
 
 - APP-挂号
-
-![项目开发进度图](document/picture/APP-挂号-1.png)
+![APP-挂号](document/picture/APP-挂号-1.png)
 
 
 - PC-门诊医生工作台
-  ![项目开发进度图](document/picture/PC-门诊医生工作台-1.png)
+![C-门诊医生工作台](document/picture/PC-门诊医生工作台-1.png)
 
 - PC-药房医生工作台
-  ![项目开发进度图](document/picture/PC-药房医生工作台-1.png)
+![PC-药房医生工作台](document/picture/PC-药房医生工作台-1.png)
 
 - PC-日结
-  ![项目开发进度图](document/picture/PC-日结-1.png)
+![PC-日结](document/picture/PC-日结-1.png)
 
 - Spring boot admin
-  ![项目开发进度图](document/picture/Spring boot admin-1.png)
+![Spring boot admin](document/picture/Spring boot admin-1.png)
 
 - Spring boot admin
-  ![项目开发进度图](document/picture/Spring boot admin-2.png)
+![Spring boot admin](document/picture/Spring boot admin-2.png)
 
 - ZinKin链路追踪
-  ![项目开发进度图](document/picture/ZinKin链路追踪.png)
+![ZinKin链路追踪](document/picture/ZinKin链路追踪.png)
 
 - 分布式日志收集
-  ![项目开发进度图](document/picture/分布式日志收集.png)
+![分布式日志收集](document/picture/分布式日志收集.png)
 
 - Hystrix dashboard
-  ![项目开发进度图](document/picture/Hystrix dashboard.png)
+![Hystrix dashboard](document/picture/Hystrix dashboard.png)
 
 ## 三. 环境搭建
 
