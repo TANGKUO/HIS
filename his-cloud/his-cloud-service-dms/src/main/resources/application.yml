@@ -82,10 +82,10 @@ logging:
 
 aliyun:
   oss:
-    endpoint: oss-cn-beijing.aliyuncs.com
-    accessKeyId: LTAI6jw7P8XVANMr
-    accessKeySecret: CA377oINCgB7gppTQoKdFoIim8rIVF
-    bucketName: zain-images
+    endpoint: 
+    accessKeyId: 
+    accessKeySecret:
+    bucketName: 
     policy:
       expire: 300
     maxSize: 10
